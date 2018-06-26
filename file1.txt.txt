@@ -1,7 +1,8 @@
 This is first file in git...!!
 
-change1
+change 1
 
-Change2
+Change 2
 
 Change3--need to commit
+
