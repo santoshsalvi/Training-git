@@ -1,10 +1,10 @@
 This is first file in git...!!
 
-change 1
+Change 1
 
 Change 2
 
 Change3--need to commit
 
-change 4
+Change 4
 
